@@ -4,11 +4,12 @@
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 Size O cadastro de alunos é o projeto integrador idelizados pelos alunos: 
-Erick Jansen
-Kauã
-David
-Graziel
-Davi Andrade
+
+* Erick Jansen
+* Kauã
+* David
+* Graziel
+* Davi Andrade
 ...
 
 * **ES modules** and **tree-shaking** support.
