@@ -8,7 +8,7 @@
 
 <img src="senac.jfif" alt="Exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> O Serviço Nacional de Aprendizagem Comercial (Senac) é uma entidade privada com fins públicos que recebe contribuição compulsória das empresas do comércio e de atividades assemelhadas.
 
 ## 💻 Pré-requisitos
 
@@ -16,23 +16,15 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de `python / tkinter / workbench>`
 - Você tem uma máquina `<Windows / Linux / Mac>`.
+- Utileze as extensões do Vscode <python-extensions / viewmysql>.
 - Trabalhe em equipe.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Requisitos <Cadastro de Alunos>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+* Instalar a ultima versão do <python> na sua máquina.
+* Instalar a ultima versão do <tkinter>.
 
-Linux e macOS:
 
-```
-<comando_de_instalação>
-```
-
-Windows:
-
-```
-<comando_de_instalação>
-```
 
 ## ☕ Usando <nome_do_projeto>
 
