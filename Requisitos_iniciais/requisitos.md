@@ -14,15 +14,15 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `python / tkinter / workbench>`
-- Você tem uma máquina `<Windows / Linux / Mac>`.
-- Utileze as extensões do Vscode <python-extensions / viewmysql>.
+- Você instalou a versão mais recente de `python / tkinter / workbench`
+- Você tem uma máquina `Windows / Linux / Mac`.
+- Utileze as extensões do Vscode `python-extensions / viewmysql`.
 - Trabalhe em equipe.
 
 ## 🚀 Requisitos <Cadastro de Alunos>
 
-* Instalar a ultima versão do <python> na sua máquina.
-* Instalar a ultima versão do <tkinter>.
+* Instalar a ultima versão do `python´ na sua máquina.
+* Instalar a ultima versão do tkinter.
 
 
 
